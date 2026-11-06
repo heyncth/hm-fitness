@@ -24,4 +24,4 @@ Asserts every `row` exists, every day has an entry, and every tab date falls on 
 
 Upload `index.html`, `app.css`, `app.js`, `assets/` to the host. Ignore `.taste-skill/` (design tooling screenshots, not part of the site).
 
-After you know the live URL, set `og:image` in `index.html` to the full URL (e.g. `https://example.com/assets/frontstore.jpg`) — Facebook scrapers ignore relative paths.
+Live site: https://hm-fitness-psi.vercel.app/ — if the domain changes, update `og:image` in `index.html` to the new full URL.
